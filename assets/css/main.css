@@ -3122,7 +3122,7 @@ input, select, textarea {
 			}
 
 			header {
-				height: 12em;
+				height: 14.9em;
 			}
 
 			h1 br, h2 br, h3 br, h4 br, h5 br, h6 br {
@@ -3265,7 +3265,6 @@ input, select, textarea {
 	@media screen and (max-width: 480px) {
 
 		/* Basic */
-
 			html, body {
 				min-width: 320px;
 			}
